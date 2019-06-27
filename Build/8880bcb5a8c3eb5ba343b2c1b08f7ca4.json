@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "sade_1_horror",
+"productVersion": "0.1",
+"dataUrl": "212d81d3f6ac154cc2ca9d134c21ef2a.unityweb",
+"wasmCodeUrl": "d3381beaaa914d95d63091fa2a089c61.unityweb",
+"wasmFrameworkUrl": "69092b8fe29d62f6ce131aed9dcfbd85.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.6f1"
+}
